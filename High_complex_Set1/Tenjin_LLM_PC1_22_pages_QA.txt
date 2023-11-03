@@ -1,0 +1,120 @@
+Level-1 Questions:
+These questions will have straightforward answers directly from the document.
+
+Q1: What is the main objective of this article?
+
+Answer: The main objective of this article is to present paths that can contribute to mitigating the effects of climate change on houses built in the metropolis of Curitiba.
+Q2: Which extreme climatic event is the most frequent in the state of Paraná?
+
+Answer: The most frequent extreme climatic event in the state of Paraná is the windstorm.
+Q3: Which region most presented occurrences of windstorms in the analyzed period?
+
+Answer: The Curitiba region most presented occurrences of windstorms in the analyzed period.
+Q4: What does the Adaptation and Mitigation Plan of Curitiba (PlanClima) reveal about the average temperature of the city?
+
+Answer: According to the Adaptation and Mitigation Plan of Curitiba (PlanClima), the city already has an average temperature of 1.2°C higher than in the 1960s.
+Q5: What are the impacts of periods of intense rain and prolonged drought on the population?
+
+Answer: The impacts of periods of intense rain and prolonged drought on the population include disturbances resulting from flooding.
+
+
+Level-2 Questions:
+These questions will require analyzing or referring to some sections of the document.
+
+Q6: How are software programs used in mitigating the impacts of climate change on housing in Curitiba?
+
+Answer: Software programs are used to simulate the future scenario of climate transformations, contributing to the development of resilient housing.
+Q7: What are the primary impacts of climate change discussed in the document?
+
+Answer: The primary impacts of climate change discussed in the document are windstorms, periods of intense rain, prolonged drought, and the resulting disturbances such as flooding.
+Q8: How does the document propose to incorporate climate change mitigation practices in housing approval processes?
+
+Answer: The document proposes to incorporate climate change mitigation practices in housing approval processes by adopting tools and strategies discussed in the article, including the use of software programs for simulation.
+Q9: Which government entities are mentioned in relation to laws and plans related to climate change?
+
+Answer: Federal and municipal government entities are mentioned in relation to laws and plans related to climate change.
+Q10: How does the article relate the concept of demand-side innovation policies to resilient housing development?
+
+Answer: The article relates the concept of demand-side innovation policies to resilient housing development by suggesting that such policies, along with software programs simulating future climate scenarios, can contribute to developing housing that is resilient to climate change impacts.
+
+
+
+Level-3 Questions:
+These questions are multiple-choice and should provide three answers for selection.
+
+Q11: What is the most frequent extreme climatic event in the state of Paraná?
+
+a) Earthquake
+b) Windstorm
+c) Flood
+Answer: b) Windstorm
+Q12: What does the article aim to present to mitigate the effects of climate change on houses?
+
+a) Novel Construction Materials
+b) Paths and Strategies
+c) New Architectural Designs
+Answer: b) Paths and Strategies
+Q13: Which region is highlighted for the most occurrences of windstorms?
+
+a) São Paulo Region
+b) Rio de Janeiro Region
+c) Curitiba Region
+Answer: c) Curitiba Region
+Q14: According to PlanClima, how much higher is the average temperature of Curitiba compared to the 1960s?
+
+a) 0.5°C
+b) 1.2°C
+c) 2.0°C
+Answer: b) 1.2°C
+Q15: What type of policies does the article discuss in relation to resilient housing development?
+
+a) Supply-side Innovation Policies
+b) Demand-side Innovation Policies
+c) Regulatory Compliance Policies
+Answer: b) Demand-side Innovation Policies
+
+Creating Level-4 Questions
+These questions will require logical analysis of the content to compose the answers.
+
+Q16: How does the vulnerability of the less favored part of the population relate to the impacts of climate change in Curitiba?
+
+Answer: The less favored part of the population is more vulnerable to the impacts of climate change due to pre-existing conditions of vulnerability, including living in precarious settlements and in risk areas, which exacerbate the environmental and socioeconomic issues they face.
+Q17: How do the software programs like Analysis Sol-Ar and Fluxovento contribute to architectural design in the context of climate change?
+
+Answer: The software programs like Analysis Sol-Ar and Fluxovento aid designers by providing crucial information about the predominant winds, annual temperatures, and airflow inside buildings, enabling informed decision-making to mitigate the effects of climate change on living spaces.
+Q18: How does the article suggest leveraging specialized technical knowledge in the development of social housing projects in Curitiba?
+
+Answer: The article suggests leveraging specialized technical knowledge through the application of the tender modality in the development of projects, to meet architectural quality in social housing and comply with the new Bidding Law.
+Q19: Why is the use of software programs emphasized in making decisions regarding architectural projects in Curitiba?
+
+Answer: The use of software programs is emphasized as they simulate various environmental factors and provide insights that are crucial for making informed decisions to create resilient architectural designs that can withstand the impacts of climate change, especially in a region prone to extreme climatic events like windstorms.
+Q20: How does the document correlate the application of the new Bidding Law to the development of social housing in Curitiba?
+
+Answer: The document correlates the application of the new Bidding Law to the development of social housing in Curitiba by suggesting that adhering to this law through the tender modality can help in achieving architectural quality in social housing developed by entities like Cohab-CT.
+
+Here are some possible Level-5 questions and answers based on the preliminary understanding of the document:
+
+Question 1:
+Q: Evaluate the impact of climate change on socioeconomically disadvantaged populations in Curitiba, considering the frequency of windstorms and the increase in average temperatures. Provide a comprehensive response detailing the environmental and socioeconomic repercussions and the role of local and federal laws in mitigating these impacts.
+
+A: The socioeconomically disadvantaged populations in Curitiba are more severely impacted by climate change due to their vulnerability and the prevalence of living in precarious settlements and risk areas. The frequent windstorms and increased average temperatures have resulted in both environmental and socioeconomic repercussions including water shortages, thermal discomfort, and disturbances from flooding. Local and federal laws play a crucial role in providing frameworks and plans, such as the Adaptation and Mitigation Plan of Curitiba (PlanClima), to mitigate these impacts by incorporating climate-resilient practices in housing and urban planning.
+
+Question 2:
+Q: Synthesize the role of software programs in mitigating the impacts of climate change in Curitiba. Discuss how these solutions aid in the development of resilient housing and the overall contribution to addressing climate crisis in the region.
+
+A: Software programs are pivotal in mitigating climate impacts in Curitiba by aiding designers in decision-making processes related to the development of resilient housing. These programs simulate future scenarios of climate transformations, enabling the incorporation of climate-adaptive practices in architectural projects. By providing insights into climate-resilient solutions, these programs contribute significantly to addressing the climate crisis in Curitiba, especially in enhancing the resilience of housing structures to extreme climatic events like windstorms.
+
+Question 3:
+Q: Integrate the information provided in the document about the occurrence of natural disasters, the vulnerability of specific populations, and the policies in place. Discuss how demand-side innovation policies can serve as effective tools in addressing the multifaceted challenges posed by climate change in Curitiba.
+
+A: The document emphasizes the frequent occurrences of natural disasters like windstorms in Curitiba and highlights the vulnerability of socioeconomically disadvantaged populations. Demand-side innovation policies, in conjunction with software programs simulating future climate scenarios, serve as effective tools to address these challenges. These policies and solutions enable the incorporation of mitigation practices in architectural projects and urban planning, addressing both environmental and socioeconomic vulnerabilities by fostering the development of resilient housing and mitigating the impacts on the most affected populations.
+
+Question 4:
+Q: Correlate the rise in average temperature in Curitiba with the occurrence of intense rain and prolonged drought as presented in the document. How do these climatic changes relate to the overall climate crisis in the region, and what are the implications for housing and urban planning?
+
+A: The rise in average temperature in Curitiba is correlated with periods of intense rain and prolonged drought, impacting the population through flooding, water shortages, and thermal discomfort. These climatic changes are indicative of the broader climate crisis in the region, necessitating resilient and adaptive approaches in housing and urban planning. The implications for housing and urban planning include the incorporation of climate-adaptive features and the development of strategies to mitigate the environmental and socioeconomic impacts, especially on vulnerable populations living in precarious settlements and risk areas.
+
+Question 5:
+Q: Articulate the importance of incorporating climate-adaptive practices in the approval processes of architectural projects in Curitiba. How do federal laws and municipal plans interplay to foster resilience against the adverse impacts of climate change, particularly in the context of housing?
+
+A: Incorporating climate-adaptive practices in the approval processes of architectural projects is crucial in Curitiba to address the multifaceted challenges posed by climate change. Federal laws and municipal plans, such as PlanClima, interplay to provide frameworks and strategies to foster resilience against climate impacts. They outline the necessary adaptations and mitigations required in housing to combat the repercussions of climate events like windstorms, intense rains, and prolonged droughts. By following these guidelines and incorporating adaptive practices, Curitiba can develop housing that is resilient to climate change and mitigates the adverse impacts on vulnerable populations.
